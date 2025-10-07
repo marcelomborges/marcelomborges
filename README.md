@@ -4,7 +4,7 @@
 - 🤝 Open to collaborating on open-source projects related to fintech, scalable platforms, and cloud-native applications
 - 💻 Ask me about C#, .NET, system integrations, and software design best practices
 - 🔒 Passionate about building secure, reliable, and efficient solutions for the financial sector
-- 🎲 Fun fact: I enjoy tabletop RPGs during my free time
+- 🎲 Fun fact: I enjoy playing tabletop RPGs during my free time
 
 # 🌐 Socials:
 
