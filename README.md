@@ -99,7 +99,17 @@ Software engineer at [**@wassamara-dev**](https://github.com/wassamara-dev), bui
 </p>
 
 <p align="center">
-  <img src="./assets/dice.svg" width="220" alt="Rolling d20 dice"/>
+  <a href="https://game-icons.net/1x1/delapouite/dice-twenty-faces-twenty.html" title="Natural 20">
+    <img src="./assets/d20-twenty.svg" width="72" alt="D20 — 20"/>
+  </a>
+  <a href="https://game-icons.net/1x1/delapouite/rolling-dices.html" title="Rolling dice">
+    <img src="./assets/rolling-dices.svg" width="130" alt="Rolling dice"/>
+  </a>
+  <a href="https://game-icons.net/1x1/delapouite/dice-twenty-faces-one.html" title="Natural 1">
+    <img src="./assets/d20-one.svg" width="72" alt="D20 — 1"/>
+  </a>
 </p>
 
 <p align="center"><sub>Outside of code: tabletop RPG enthusiast</sub></p>
+
+<p align="center"><sub>Icons by <a href="https://game-icons.net/1x1/delapouite/dice-twenty-faces-twenty.html">Delapouite</a> · <a href="https://game-icons.net/about.html#license">CC BY 3.0</a></sub></p>
