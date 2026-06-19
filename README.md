@@ -99,7 +99,7 @@ Software engineer at [**@wassamara-dev**](https://github.com/wassamara-dev), bui
 </p>
 
 <p align="center">
-  <img src="./assets/dice.svg" width="200" alt="Rolling d20 dice"/>
+  <img src="./assets/dice.svg" width="220" alt="Rolling d20 dice"/>
 </p>
 
 <p align="center"><sub>Outside of code: tabletop RPG enthusiast</sub></p>
