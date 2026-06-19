@@ -1,16 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4158D0,100:7B68EE&height=140&section=header&text=Marcelo%20Mendon%C3%A7a%20Borges&fontSize=38&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:161b22,100:21262d&height=130&section=header&text=Marcelo%20Mendon%C3%A7a%20Borges&fontSize=36&fontColor=c9d1d9" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%C2%B7+.NET+%26+AWS+%C2%B7+Financial+Integrations&font=Fira+Code&size=18&duration=5000&pause=2500&color=8B949E&center=true&width=520" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%C2%B7+.NET+%26+AWS+%C2%B7+Financial+Integrations&font=Fira+Code&size=17&duration=5000&pause=2500&color=8b949e&center=true&vCenter=true&width=780" alt="Typing animation"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Brazil-0d1117?style=flat-square" alt="Location"/>
-  <img src="https://img.shields.io/badge/Languages-EN%20%7C%20PT-0d1117?style=flat-square" alt="Languages"/>
-  <img src="https://img.shields.io/badge/Focus-Fintech%20%26%20Cloud-0d1117?style=flat-square" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Location-Brazil-21262d?style=flat-square&labelColor=161b22&color=30363d" alt="Location"/>
+  <img src="https://img.shields.io/badge/Languages-EN%20%7C%20PT-21262d?style=flat-square&labelColor=161b22&color=30363d" alt="Languages"/>
+  <img src="https://img.shields.io/badge/Focus-Fintech%20%26%20Cloud-21262d?style=flat-square&labelColor=161b22&color=30363d" alt="Focus"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4158D0,100:7B68EE&height=40&section=header&text=About&fontSize=22&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:21262d,100:30363d&height=36&section=header&text=About&fontSize=20&fontColor=8b949e" width="100%"/>
 
 <br/>
 
@@ -20,7 +20,7 @@ Software engineer at [**@wassamara-dev**](https://github.com/wassamara-dev), bui
 - Modern development workflows, automation, and solid software design
 - Open to fintech, scalable platforms, and cloud-native collaboration
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4158D0,100:7B68EE&height=40&section=header&text=Focus&fontSize=22&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:21262d,100:30363d&height=36&section=header&text=Focus&fontSize=20&fontColor=8b949e" width="100%"/>
 
 <br/>
 
@@ -37,7 +37,7 @@ Software engineer at [**@wassamara-dev**](https://github.com/wassamara-dev), bui
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4158D0,100:7B68EE&height=40&section=header&text=Tech%20Stack&fontSize=22&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:21262d,100:30363d&height=36&section=header&text=Tech%20Stack&fontSize=20&fontColor=8b949e" width="100%"/>
 
 <br/>
 
@@ -61,36 +61,36 @@ Software engineer at [**@wassamara-dev**](https://github.com/wassamara-dev), bui
   <img src="https://skillicons.dev/icons?i=python,powershell,git,github,vscode&theme=dark&perline=5" alt="Tools"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4158D0,100:7B68EE&height=40&section=header&text=Featured%20Projects&fontSize=22&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:21262d,100:30363d&height=36&section=header&text=Featured%20Projects&fontSize=20&fontColor=8b949e" width="100%"/>
 
 <br/>
 
 <p align="center">
   <a href="https://github.com/marcelomborges/vue-development">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcelomborges&repo=vue-development&theme=react&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" alt="vue-development"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcelomborges&repo=vue-development&theme=gray_white&hide_border=true&bg_color=161b22&title_color=c9d1d9&text_color=8b949e&icon_color=6e7681" alt="vue-development"/>
   </a>
 </p>
 
 <p align="center"><sub>More projects coming soon.</sub></p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4158D0,100:7B68EE&height=40&section=header&text=Activity&fontSize=22&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:21262d,100:30363d&height=36&section=header&text=Activity&fontSize=20&fontColor=8b949e" width="100%"/>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcelomborges&theme=react-dark&hide_border=true&area=true&point=58A6FF&line=7B68EE&color=58A6FF" alt="Contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcelomborges&theme=gitgraph&hide_border=true&area=true&point=484f58&line=484f58&color=30363d" alt="Contribution graph"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4158D0,100:7B68EE&height=40&section=header&text=Connect&fontSize=22&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:21262d,100:30363d&height=36&section=header&text=Connect&fontSize=20&fontColor=8b949e" width="100%"/>
 
 <br/>
 
 <p align="center">
   <a href="https://linkedin.com/in/marcelo-mborges">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-30363d?style=flat-square&logo=linkedin&logoColor=8b949e&labelColor=21262d" alt="LinkedIn"/>
   </a>
   <a href="mailto:marcelomborges@outlook.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-30363d?style=flat-square&logo=gmail&logoColor=8b949e&labelColor=21262d" alt="Email"/>
   </a>
 </p>
 
