@@ -1,58 +1,99 @@
-<h1 align="center">Marcelo Mendonça Borges</h1>
-<p align="center">Software engineer building secure financial integrations and enterprise systems with .NET and AWS.</p>
-<p align="center">Based in Brazil · English & Portuguese</p>
-
-## About
-
-- Software engineer at [@wassamara-dev](https://github.com/wassamara-dev), working on financial system integrations and enterprise applications
-- Focused on reliable API integrations, cloud-native architecture, and observability in production environments
-- Experienced with modern development workflows, automation, and software design best practices
-- Open to collaborating on fintech, scalable platforms, and cloud-native open-source projects
-
-## Focus Areas
-
-| Area | What I work on |
-| --- | --- |
-| Backend | C#, .NET, REST APIs, system integrations |
-| Cloud | AWS, Docker, infrastructure automation |
-| Observability | OpenTelemetry, Grafana, Elasticsearch |
-| Frontend | Vue, JavaScript, HTML/CSS |
-| DevOps | GitHub Actions, GitLab CI, Jenkins, Nginx |
-
-## Tech Stack
-
-**Backend & Cloud**
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frontend**
-![Vue](https://img.shields.io/badge/vue-%2335495E.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Observability & DevOps**
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?style=for-the-badge&logo=opentelemetry&logoColor=black) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-**Tools**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
-## Featured Projects
-
-| Project | Stack | Description |
-| --- | --- | --- |
-| [vue-development](https://github.com/marcelomborges/vue-development) | Vue, JavaScript | Front-end practice — component exploration and UI patterns |
-
-_More projects coming soon._
-
-## GitHub Activity
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4158D0,100:7B68EE&height=140&section=header&text=Marcelo%20Mendon%C3%A7a%20Borges&fontSize=38&fontColor=fff" width="100%"/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcelomborges&theme=github-dark&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%C2%B7+.NET+%26+AWS+%C2%B7+Financial+Integrations&font=Fira+Code&size=18&duration=5000&pause=2500&color=8B949E&center=true&width=520" alt="Typing animation"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelomborges&show_icons=true&theme=shadow_blue&hide_border=false" alt="GitHub Stats"/>
+  <img src="https://img.shields.io/badge/Location-Brazil-0d1117?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/Languages-EN%20%7C%20PT-0d1117?style=flat-square" alt="Languages"/>
+  <img src="https://img.shields.io/badge/Focus-Fintech%20%26%20Cloud-0d1117?style=flat-square" alt="Focus"/>
 </p>
 
-## Connect
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4158D0,100:7B68EE&height=40&section=header&text=About&fontSize=22&fontColor=fff" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-mborges) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marcelomborges@outlook.com)
+<br/>
+
+Software engineer at [**@wassamara-dev**](https://github.com/wassamara-dev), building secure financial integrations and enterprise systems.
+
+- Reliable API integrations, cloud-native architecture, and production observability
+- Modern development workflows, automation, and solid software design
+- Open to fintech, scalable platforms, and cloud-native collaboration
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4158D0,100:7B68EE&height=40&section=header&text=Focus&fontSize=22&fontColor=fff" width="100%"/>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="200"><b>Backend</b><br/>C# · .NET · REST · Integrations</td>
+    <td align="center" width="200"><b>Cloud</b><br/>AWS · Docker · Automation</td>
+    <td align="center" width="200"><b>Observability</b><br/>OpenTelemetry · Grafana · Elastic</td>
+  </tr>
+  <tr>
+    <td align="center" width="200"><b>Frontend</b><br/>Vue · JavaScript · HTML/CSS</td>
+    <td align="center" width="200"><b>DevOps</b><br/>GitHub Actions · GitLab · Jenkins</td>
+    <td align="center" width="200"><b>Tools</b><br/>Postman · Swagger · PowerShell</td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4158D0,100:7B68EE&height=40&section=header&text=Tech%20Stack&fontSize=22&fontColor=fff" width="100%"/>
+
+<br/>
+
+<p align="center"><b>Backend & Cloud</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,aws,docker,postgres&theme=dark&perline=5" alt="Backend and Cloud"/>
+</p>
+
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,js,html,css,bootstrap&theme=dark&perline=5" alt="Frontend"/>
+</p>
+
+<p align="center"><b>DevOps & Observability</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=grafana,nginx,jenkins,gitlab,githubactions&theme=dark&perline=5" alt="DevOps"/>
+</p>
+
+<p align="center"><b>Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,powershell,git,github,vscode&theme=dark&perline=5" alt="Tools"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4158D0,100:7B68EE&height=40&section=header&text=Featured%20Projects&fontSize=22&fontColor=fff" width="100%"/>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/marcelomborges/vue-development">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcelomborges&repo=vue-development&theme=react&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" alt="vue-development"/>
+  </a>
+</p>
+
+<p align="center"><sub>More projects coming soon.</sub></p>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4158D0,100:7B68EE&height=40&section=header&text=Activity&fontSize=22&fontColor=fff" width="100%"/>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcelomborges&theme=react-dark&hide_border=true&area=true&point=58A6FF&line=7B68EE&color=58A6FF" alt="Contribution graph"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4158D0,100:7B68EE&height=40&section=header&text=Connect&fontSize=22&fontColor=fff" width="100%"/>
+
+<br/>
+
+<p align="center">
+  <a href="https://linkedin.com/in/marcelo-mborges">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:marcelomborges@outlook.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<br/>
 
 <p align="center"><sub>Outside of code: tabletop RPG enthusiast.</sub></p>
