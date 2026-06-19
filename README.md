@@ -98,4 +98,8 @@ Software engineer at [**@wassamara-dev**](https://github.com/wassamara-dev), bui
   <img src="https://readme-typing-svg.demolab.com/?lines=Open+to+collaboration+and+interesting+projects&font=Fira+Code&size=15&duration=4500&pause=3000&color=8b949e&center=true&vCenter=true&width=420" alt="Collaboration typing"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:132036&height=48&section=footer&text=Outside%20of%20code%3A%20tabletop%20RPG%20enthusiast&fontSize=14&fontColor=8b949e&animation=twinkling" width="100%"/>
+<p align="center">
+  <img src="./assets/dice.svg" width="200" alt="Rolling d20 dice"/>
+</p>
+
+<p align="center"><sub>Outside of code: tabletop RPG enthusiast</sub></p>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 80" width="220" height="80" role="img" aria-label="Rolling d20 dice">
+  <g transform="translate(44, 42)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="0;120;240;360" keyTimes="0;0.33;0.66;1" dur="2.6s" repeatCount="indefinite"/>
+      <polygon points="0,-28 26,18 -26,18" fill="#132036" stroke="#388bfd" stroke-width="2" stroke-linejoin="round"/>
+      <line x1="0" y1="-28" x2="0" y2="18" stroke="#388bfd" stroke-width="1.2" opacity="0.55"/>
+      <line x1="-26" y1="18" x2="13" y2="-5" stroke="#388bfd" stroke-width="1.2" opacity="0.55"/>
+      <line x1="26" y1="18" x2="-13" y2="-5" stroke="#388bfd" stroke-width="1.2" opacity="0.55"/>
+      <line x1="-13" y1="-5" x2="13" y2="-5" stroke="#388bfd" stroke-width="1.2" opacity="0.35"/>
+      <text x="0" y="8" text-anchor="middle" fill="#a5d6ff" font-size="15" font-family="Consolas, Monaco, monospace" font-weight="700">20</text>
+    </g>
+  </g>
+
+  <g transform="translate(176, 42)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="0;-120;-240;-360" dur="3.1s" repeatCount="indefinite"/>
+      <polygon points="0,-28 26,18 -26,18" fill="#132036" stroke="#388bfd" stroke-width="2" stroke-linejoin="round"/>
+      <line x1="0" y1="-28" x2="0" y2="18" stroke="#388bfd" stroke-width="1.2" opacity="0.55"/>
+      <line x1="-26" y1="18" x2="13" y2="-5" stroke="#388bfd" stroke-width="1.2" opacity="0.55"/>
+      <line x1="26" y1="18" x2="-13" y2="-5" stroke="#388bfd" stroke-width="1.2" opacity="0.55"/>
+      <line x1="-13" y1="-5" x2="13" y2="-5" stroke="#388bfd" stroke-width="1.2" opacity="0.35"/>
+      <text x="0" y="8" text-anchor="middle" fill="#79c0ff" font-size="15" font-family="Consolas, Monaco, monospace" font-weight="700">1</text>
+    </g>
+  </g>
+</svg>
